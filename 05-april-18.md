@@ -1,4 +1,4 @@
-# LINQ 
+# 05 April 2018
 
 ## :book: Study 
 [Language Integrated Query - LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
