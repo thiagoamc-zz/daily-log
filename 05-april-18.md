@@ -5,4 +5,4 @@
 [PT-BR Consulta Integrada à Linguagem - LINQ](https://docs.microsoft.com/pt-br/dotnet/csharp/linq/)
 
 ## :headphones: Listening
-[Kamelot](:headphones:)
+[Kamelot](https://www.youtube.com/watch?v=RE7_Zp0lX1c)
