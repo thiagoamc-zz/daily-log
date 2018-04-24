@@ -5,3 +5,4 @@
 - [05](https://github.com/thiagoamc/daily-log/blob/master/05-april-18.md)
 - [06](https://github.com/thiagoamc/daily-log/blob/master/06-april-18.md)  
 - [11](https://github.com/thiagoamc/daily-log/blob/master/11-april-18.md)
+- [24](https://github.com/thiagoamc/daily-log/blob/master/24-april-18.md)
